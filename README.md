@@ -28,3 +28,4 @@ This is my first project repo where I’ll:
 - Python, APIs, React
 
 
+First commit by Paral Thakker — MIT xPro Full Stack Developer in progress.
